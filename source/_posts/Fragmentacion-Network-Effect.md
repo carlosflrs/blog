@@ -1,0 +1,16 @@
+---
+title: 'Fragmentación: Network Effect'
+date: 2016-02-05 10:56:54
+tags: 
+---
+
+Autores pueden incorporar fragmentación en sus obras de literatura electrónica por medio de enlaces web. Los enlaces web pueden ser utilizados de diferentes manera – para enlazar la descripción de algún concepto, mostrar ejemplos, artículos, videos etc. Por medio de rupturas en el flujo de la obra literaria y creación de posibles tangentes es la manera en que los enlaces web promueven la fragmentación. 
+
+En el proyecto [Network Effect](http://networkeffect.io) el lector experimenta un caos total. Hay una barra el la cima de la pagina web con verbos comunes. Al seleccionar algún verbo, videos comienzan a reproducirse a lo largo de la pantalla. La parte inferior de la pantalla contiene opciones de estadísticas, citas, noticias y muchas cosas mas. Algunas de las opciones enlazan a Twitter, Youtube, Yahoo News, Google News y otras paginas web. Un efecto interesante al ver esta pagina por primera vez es que el lector solo mira los videos. Unos cuantos segundos pasan y se da cuenta el lector que nada pasa si no es activo y forma parte de la experiencia por medio de seleccionar nuevas palabras, o las noticias, estadísticas etc. Ya adentrado en la experiencia los enlaces empiezan a crear la fragmentación. Eventos (videos), son interrumpidos por las diferentes acciones del lector a lo largo de la exploración de la obra.
+
+El concepto del tiempo forma parte importante de esta obra. El acceso a Network Effect es restringido a 7 minutos con 50 segundo, esto es dependiente de la localización del lector.  La experiencia es limitada y las decisiones del lector llevan a diferentes resultados. La experiencia es diferente no solo en forma de interpretación sino en algo fuera del pensamiento – el camino es pertinente a las acciones que el lector toma. Diferentes enlaces conllevan a diferentes sitios web y proveen información diferente no solo en forma de contexto pero también en forma de diferente medio. La obra utiliza las ventajas de la literatura digital y enlaces web para transmitir su propio mensaje, no solo para extender la obra. La fragmentación utilizada provee mas que solo diferente experiencia, ella ayuda a decir al lector sobre el uso de las redes sociales, y la tecnología digital en general. El proyecto tiene muchos significados pero temas centrales son la dependencia en la tecnología digital, la falta de atención, y la magnitud de la porción de nuestra atención que es tomada por estos medios. Estos mensajes son transmitidos por medio del caos creado en la pagina web – los videos, sonidos, opciones e innumerables enlaces.
+
+Otro efecto que nace a través de la fragmentación es la sensación de que el lector se pierde ciertos aspectos de la obra al escoger cierto camino. Esto es ejemplificado en Network Effect, hay muchos verbos de los cuales el lector puede escoger y no todos se pueden ver en el tiempo proveído. No solo el tiempo forma parte de cierto efecto, la cantidad de enlaces y estadísticas, y en general la cantidad de opciones generan este efecto.
+
+
+
