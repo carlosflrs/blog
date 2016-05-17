@@ -71,4 +71,4 @@ deploy:
 - type: git
   repo: https://github.com/carlosflrs/blog.git
 - type: heroku
-  repo: https://git.heroku.com/fast-reaches-14529.git
+  repo: https://git.heroku.com/polar-cliffs-14586.git
